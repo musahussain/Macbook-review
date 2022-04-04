@@ -7,7 +7,7 @@ import Chart4 from '../Chart4/Chart4';
 import './Dashboard.css';
 
 const Dashboard = () => {
-    const [data, setData] = useData();
+    const [data] = useData();
     return (
         <div className='chart-container'>
             <Chart1 data={data}></Chart1>
