@@ -9,7 +9,7 @@ const Review = (props) => {
             <img src={userImg} alt="user" />
             <p>{name}</p>
             <p>{description}</p>
-            <p className='rating-icon'><StarIcon style={{fontSize: "1px"}}></StarIcon></p>
+            <p className='rating'>{ratings}<StarIcon className='rating-icon'></StarIcon></p>
         </div>
     );
 };

@@ -12,8 +12,15 @@
 }
 .container-review p{
     margin: 30px;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 }
-.rating-icon i{
-    font-size: 1rem;
+.rating-icon{
+    width: 1.2rem;
+    color: gold;
+}
+
+.rating{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

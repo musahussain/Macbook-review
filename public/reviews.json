@@ -10,7 +10,7 @@
         "name": "Liam Livingstone",
         "description": "This is a awesome product. I recommend it.",
         "userImg": "https://images.unsplash.com/photo-1599110364762-eba33ec21988?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-        "ratings": 5,
+        "ratings": 4.5,
         "id": "1565dgvjHU"
     },
     {
@@ -31,14 +31,14 @@
         "name": "Marnus Labuschagne",
         "description": "This is really good. Can use it for many work.",
         "userImg": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-        "ratings": 5,
+        "ratings": 4.9,
         "id": "197978hnfjVbn"
     },
     {
         "name": "David Warner",
         "description": "This is my new laptop. I can use this for my work. It is pretty good.",
         "userImg": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-        "ratings": 5,
+        "ratings": 4.9,
         "id": "1757567gjdovjjIO"
     }
 ]
