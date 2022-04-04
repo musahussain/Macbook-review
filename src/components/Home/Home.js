@@ -5,7 +5,7 @@ import Review from '../Review/Review';
 import './Home.css';
 
 const Home = () => {
-    const [reviews, setReviews] = useReviews();
+    const [reviews] = useReviews();
     let slicedReviews = reviews.slice(0, 3);
 
     return (
