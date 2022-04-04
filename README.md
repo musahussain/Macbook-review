@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## [live site link](https://spiral-review.netlify.app/).
 
-### * There is review page where you can see reviews about MacBook Pro
-### * There is a Dashboard
-### * Hero icon was used for icon
-### * React Router was used for routing
+* There is review page where you can see reviews about MacBook Pro
+* There is a Dashboard
+* Hero icon was used for icon
+* React Router was used for routing
 
 ## Available Scripts
 
